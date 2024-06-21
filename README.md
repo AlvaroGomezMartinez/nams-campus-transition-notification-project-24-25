@@ -18,5 +18,3 @@ Setup Requirements:
 - Create a Google Docs template for the AEP Transition Plan (internal letter for the home campus' transition team)
 - Create the Autocrat print jobs to run when ready
 - Add the Google Apps Script to the Google Sheet
-
-Running the Letters and Emails:
